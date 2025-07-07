@@ -3,7 +3,7 @@
 
 
 var cornerAnimationTimer;
-var frameTimerInterval = 5;
+var frameTimerInterval = 1;
 
 function getPixelValue(stringValue) {
   return parseInt(stringValue.replace("px", ""));
